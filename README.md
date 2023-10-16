@@ -16,10 +16,12 @@ The neural network has following features
 4. The activation function used was softmax
 
 ### Single layer neural network loss
-![](https://i.imgur.com/K7l2fsT.png)
+
+![sll_mnist](https://github.com/INAENTTS/-MNIST-Digit-Classification-Using-Numpy/assets/120380768/9f43f9c2-5d5d-42b4-bdfe-cdb0c6266e86)
 
 ### Single layer neural network accuracy
-![](https://i.imgur.com/D8moR20.png)
+
+![sla_mnist](https://github.com/INAENTTS/-MNIST-Digit-Classification-Using-Numpy/assets/120380768/a64d4958-30a4-4877-9401-b9d71101a781)
 
 ## Multi Layer MNIST Digit Classifier
 
