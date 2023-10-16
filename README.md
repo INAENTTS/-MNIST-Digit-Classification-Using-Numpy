@@ -31,7 +31,8 @@ A NeuralNet class was implemented for the purpose of creating a multi-layer neur
 4. The activation function used for the output layer is softmax for classification purpose
 
 ### Multi layer neural network loss
-![](https://i.imgur.com/zLwNcHb.png)
+![mll_mnist](https://github.com/INAENTTS/-MNIST-Digit-Classification-Using-Numpy/assets/120380768/8dedd229-ea4c-47c7-8336-6aba1c4f49ce)
 
 ### Multi layer neural network accuracy
-![](https://i.imgur.com/c7v3qBw.png)
+
+![mla-mnist](https://github.com/INAENTTS/-MNIST-Digit-Classification-Using-Numpy/assets/120380768/51dc4627-7ed8-4ca1-8d6d-1a28dd5092f4)
